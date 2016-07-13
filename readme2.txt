@@ -8,5 +8,7 @@ four 6
 three 7
 two 8
 one 9
+zero 10
+01234567890987654321
 eleven 11
 twenty 20
